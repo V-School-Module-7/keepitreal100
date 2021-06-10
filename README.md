@@ -3,7 +3,7 @@
 **About**
 This project is an update and redesign of the previous page [here](http://covid19cpr.com/) done by Trans4mation games.
 **Team**
-- Dabiel Ruales "Project Manager"
+- Daniel Ruales "Project Manager"
 - Scott Pittman "Software Developer"
 - Rixio Barrios "Software Developer"
 **Technologies**
